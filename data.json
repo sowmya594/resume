@@ -1,0 +1,24 @@
+{
+  "basics":{
+    "name":"sowmya",
+    "email":"srisowmya.gudimella@gmail.com",
+    "mobile no":"+91-7856432186"
+  },
+  "education":[
+    {
+      "degree":"B-TECH",
+      "institute":"PSCMR",
+      "data":["2015-19","79%"]
+    },
+    {
+      "degree":"intermediate/diploma",
+      "institute":"Sri chaitanya",
+      "data":["2013-15","93%"]
+    },
+    {
+      "degree":"X",
+      "institute":"Atkinson high school",
+      "data":["2013","9.8"]
+    }
+  ]
+}
