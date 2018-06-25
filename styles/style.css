@@ -1,4 +1,13 @@
-a{
+table{
+  width:70%;
+}
+td{
+  padding:1%;
+}
+tr:nth-child(even){
+  background: #ddd;
+}
+  a{
   text-decoration:none;
 }
   .main{

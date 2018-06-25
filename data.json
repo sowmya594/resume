@@ -4,11 +4,14 @@
     "email":"srisowmya.gudimella@gmail.com",
     "mobile no":"+91-7856432186"
   },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
   "education":[
     {
       "degree":"B-TECH",
       "institute":"PSCMR",
-      "data":["2015-19","79%"]
+      "data":["2015-19","78%"]
     },
     {
       "degree":"intermediate/diploma",
@@ -19,6 +22,35 @@
       "degree":"X",
       "institute":"Atkinson high school",
       "data":["2013","9.8"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Awarded certification for C and C++ by <q>IIT BOMBAY</q>"
+    },
+    {
+      "name":"Got certificate for PPT Presentation at <q>JIGNASA</q>"
+    },
+    {
+      "name":"Received internship certificate for <q>Internshala Student Partner 9.0</q> by <q>INTERNSHALA</q>"
+    }
+  ],
+  "technicalskills":[
+    {
+      "name":"Programming Languages",
+      "data":["C","C++","Java"]
+    },
+    {
+      "name":"DataBases",
+      "data":["MySQL","Oracle"]
+    },
+    {
+      "name":"Web Technologies",
+      "data":["HTML","CSS","JavaScript"]
+    },
+    {
+      "name":"Libraries and Frameworks",
+      "data":["jQuery","codeIgniter"]
     }
   ]
 }
